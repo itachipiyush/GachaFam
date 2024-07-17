@@ -1,0 +1,17 @@
+{
+  "name": "documen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "npm run docs:dev",
+    "docs:build": "npm run docs:build",
+    "docs:serve" : "vitepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitepress": "^1.2.3"
+  }
+}
